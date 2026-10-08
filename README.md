@@ -13,3 +13,8 @@ Proyek Android menggunakan Jetpack Compose untuk menampilkan data Kartu Mahasisw
 2. **Khoirul Arif Pratama** (NIM: 20240140011) - Cilacap, majenang
 3. **Rafii Arif Nugroho** (NIM: 20240140007) - Kasihan, Bantul
 4. **Ahmad Naufal Ramadhan** (NIM: 20240140028) - Pemalang, pemalang
+
+### 🚀 Cara Menjalankan Proyek:
+1. Buka proyek ini di Android Studio.
+2. Lakukan Gradle Sync jika diperlukan.
+3. Jalankan aplikasi pada emulator atau perangkat fisik Android dengan menekan tombol **Run 'app'**.
