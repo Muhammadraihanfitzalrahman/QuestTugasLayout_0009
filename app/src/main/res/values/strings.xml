@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tugas 3</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="copy">Copyright, 2026</string>
+    <string name="logo_desc">Logo UMY</string>
+
+    <!-- Data Card 1 -->
+    <string name="nama_1">Muhammad Raihan Fitzal Rahman</string>
+    <string name="nim_1">20240140009</string>
+    <string name="alamat_1">Sukamulya, Karawang</string>
+
+    <!-- Data Card 2 -->
+    <string name="nama_2">Khoirul Arif Pratama</string>
+    <string name="nim_2">20240140011</string>
+    <string name="alamat_2">Cilacap, majenang</string>
+
+    <!-- Data Card 3 -->
+    <string name="nama_3">Rafii Arif Nugroho</string>
+    <string name="nim_3">20240140007</string>
+    <string name="alamat_3">Kasihan, Bantul</string>
+
+    <!-- Data Card 4 -->
+    <string name="nama_4">Ahmad Naufal Ramadhan</string>
+    <string name="nim_4">20240140028</string>
+    <string name="alamat_4">Pemalang, pemalang</string>
+</resources>
