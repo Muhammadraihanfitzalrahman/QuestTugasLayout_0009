@@ -96,7 +96,9 @@ fun CardWidget(
     }
 }
 
-// Fungsi Utama Layout
+/**
+ * Layout utama AktivitasPertama menyusun header prodi dan ke-4 CardWidget.
+ */
 @Composable
 fun AktivitasPertama(modifier: Modifier = Modifier) {
     Column(
