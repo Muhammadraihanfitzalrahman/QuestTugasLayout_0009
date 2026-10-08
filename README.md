@@ -14,6 +14,11 @@ Proyek Android menggunakan Jetpack Compose untuk menampilkan data Kartu Mahasisw
 3. **Rafii Arif Nugroho** (NIM: 20240140007) - Kasihan, Bantul
 4. **Ahmad Naufal Ramadhan** (NIM: 20240140028) - Pemalang, pemalang
 
+### 🛠️ Teknologi yang Digunakan:
+- **Bahasa**: Kotlin
+- **UI Framework**: Jetpack Compose & Material 3
+- **Build System**: Gradle Kotlin DSL (`build.gradle.kts`)
+
 ### 🚀 Cara Menjalankan Proyek:
 1. Buka proyek ini di Android Studio.
 2. Lakukan Gradle Sync jika diperlukan.
