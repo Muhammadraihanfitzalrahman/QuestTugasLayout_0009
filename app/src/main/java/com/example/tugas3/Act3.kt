@@ -27,7 +27,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.tugas3.ui.theme.Tugas3Theme
 
-// Fungsi Komponen Card (Widget) yang reusable untuk keseluruhan Card
+/**
+ * Komponen CardWidget terpisah yang reusable untuk menampilkan informasi data Mahasiswa.
+ */
 @Composable
 fun CardWidget(
     namaRes: Int,
